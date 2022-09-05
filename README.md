@@ -4,9 +4,9 @@
 
 > Free React Admin Dashboard made with Material-UI components and React.
 
-![preview](public/static/preview_warehouse.png)
+![preview](public/static/preview_warehouse.PNG)
 
-![preview](public/static/preview_detail_warehouse.png)
+![preview](public/static/preview_detail_warehouse.PNG)
 
 | [Minimal Free](https://minimal-kit-react.vercel.app/) | [Minimal](https://material-ui.com/store/items/minimal-dashboard/) |
 | ----------------------------------------------------- | :---------------------------------------------------------------- |
