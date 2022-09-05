@@ -4,7 +4,9 @@
 
 > Free React Admin Dashboard made with Material-UI components and React.
 
-![preview](public/static/preview.jpg)
+![preview](public/static/preview_warehouse.png)
+
+![preview](public/static/preview_detail_warehouse.png)
 
 | [Minimal Free](https://minimal-kit-react.vercel.app/) | [Minimal](https://material-ui.com/store/items/minimal-dashboard/) |
 | ----------------------------------------------------- | :---------------------------------------------------------------- |
@@ -16,15 +18,6 @@
 | -                                                     | ✓ TypeScript version                                              |
 | -                                                     | ✓ Design files (Figma & Sketch)                                   |
 
-## Page demo
-
-- [Dashboard](https://minimal-kit-react.vercel.app/dashboard/app)
-- [Users](https://minimal-kit-react.vercel.app/dashboard/user)
-- [Product](https://minimal-kit-react.vercel.app/dashboard/products)
-- [Blog](https://minimal-kit-react.vercel.app/dashboard/blog)
-- [Login](https://minimal-kit-react.vercel.app/login)
-- [Register](https://minimal-kit-react.vercel.app/register)
-- [Not Found](https://minimal-kit-react.vercel.app/404)
 
 ## Getting started
 
